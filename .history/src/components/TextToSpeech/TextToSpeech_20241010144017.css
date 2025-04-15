@@ -1,0 +1,22 @@
+.text-to-speech {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px; /* Adjusted padding */
+    border-radius: 8px; /* Rounded corners */
+    background-color: #fff; /* White background for better contrast */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    margin-top: 16px; /* Lift the component with top margin */
+}
+
+.text-to-speech button {
+    padding: 10px; /* Added padding for better clickability */
+    border-radius: 50%; /* Fully rounded button */
+    transition: background-color 0.2s; /* Smooth transition for hover effect */
+}
+
+.text-to-speech p {
+    margin-left: 12px; /* Space between button and text */
+    color: #4A4A4A; /* Darker text color for better readability */
+    font-weight: 500; /* Medium font weight */
+}
