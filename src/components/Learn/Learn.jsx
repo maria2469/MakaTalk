@@ -1,5 +1,5 @@
 import React, { useState, useRef, Suspense } from 'react';
-import './learn.css'; 
+import './Learn.css'; 
 import Navbar from '../LandingPage/Navbar';
 import colorOptions from '../Choices/Colors/Colors'; 
 import LanguageDropdown from '../Languagedropdown/Language';
